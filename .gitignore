@@ -1,0 +1,9 @@
+TFlog*
+TFlog/
+provisional/
+provisional*
+training/
+training*
+.ipynb_checkpoints/
+.ipynb_checkpoints*
+*.tar
